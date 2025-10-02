@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+non_python/c_src/benchmark.c
+non_python/c_src/c_chess_module.c
+non_python/c_src/chess.c
+non_python/c_src/chess.h
+non_python/c_src/main.c
+src/tensor_chess/__init__.py
+src/tensor_chess.egg-info/PKG-INFO
+src/tensor_chess.egg-info/SOURCES.txt
+src/tensor_chess.egg-info/dependency_links.txt
+src/tensor_chess.egg-info/not-zip-safe
+src/tensor_chess.egg-info/top_level.txt
