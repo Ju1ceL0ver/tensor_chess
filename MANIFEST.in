@@ -1,3 +1,4 @@
 include LICENSE
 include README.md
+include CHANGELOG.md
 recursive-include non_python/c_src *.c *.h
